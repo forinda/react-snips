@@ -1,17 +1,14 @@
-# `react-snips` README
+# React snips 
+A simplistic featured snippet genertor for vscode react functional components
 
-This is the README for your extension "react-snips". 
+![React snips](https://res.cloudinary.com/forinda/image/upload/v1675580487/icon-react-snip.png)
 
-Has quality enforcement for how you define your functional components
+A sample functional component here
+![](assets/react-snip-code1.png)
 
-## Features
+This provides props and types for functional components out of the box
 
-React snips creates a simple snippet for react functional components
-![Snippet function](assets/react-snip-code1.png)
------
-![React Snips](https://res.cloudinary.com/forinda/image/upload/v1675580487/icon-react-snip.png)
+### Shortcuts
+`rndft - React snippet for typescript component` 
 
- ### Current commands available
- `rdntf` - > Creates a functional component with state and props definitions
-
-**Enjoy!**
+# Enjoy
