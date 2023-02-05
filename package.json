@@ -16,5 +16,30 @@
         "path": "./snippets/snippets.code-snippets"
       }
     ]
-  }
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forinda/react-snips.git"
+  },
+  "keywords": [
+    "react",
+    "snippets",
+    "react",
+    "functional",
+    "snippets",
+    "eslint",
+    "quality",
+    "react",
+    "snippets"
+  ],
+  "author": "Felix Orinda",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/forinda/react-snips/issues"
+  },
+  "homepage": "https://github.com/forinda/react-snips#readme"
 }
