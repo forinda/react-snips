@@ -15,6 +15,7 @@
   "categories": [
     "Snippets"
   ],
+  "icon": "https://res.cloudinary.com/forinda/image/upload/v1675580487/icon-react-snip.png",
   "contributes": {
     "snippets": [
       {
